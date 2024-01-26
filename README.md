@@ -8,10 +8,14 @@
 
 3. Open Terminal
 <br>
+
 ```Composer Install```
+
 <br>
 Or
+
 <br>
+
 ```Composer Update```
 
 4. Enjoy
