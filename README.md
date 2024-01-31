@@ -30,6 +30,11 @@ Follow these steps to set up the project:
     ```
     This command will generate a key and copy it to your `.env` file.
 
-6. **Enjoy!**
+6. **Remove the existing Git initialization**:
+    ```bash
+    rm -rf .git
+    ```
+
+7. **Enjoy!**
 
 This project uses the AdminLTE template.
