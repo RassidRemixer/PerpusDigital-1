@@ -27,6 +27,7 @@
         {{-- Open Navbar Dashboard --}}
         @include('komponen.navbar')
         {{-- Close Navbar Dashboard --}}
+        
 
         {{-- Open Sidebar Dashboard --}}
         @include('komponen.sidebar')
